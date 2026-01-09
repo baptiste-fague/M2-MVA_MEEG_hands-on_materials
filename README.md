@@ -1,6 +1,6 @@
 # Materials of the hands-on used for the MVA master's degree - M/EEG part
 
-Materials associated to the the classes given during the master's degree in [MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)](https://www.master-mva.com/) -  [Functional imaging and BCI](https://www.master-mva.com/cours/imagerie-fonctionnelle-cerebrale-et-interface-cerveau-machine/) - ENS Saclay - Jan-Mar 2025.
+Materials associated to the the classes given during the master's degree in [MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)](https://www.master-mva.com/) -  [Functional imaging and BCI](https://www.master-mva.com/cours/imagerie-fonctionnelle-cerebrale-et-interface-cerveau-machine/) - ENS Saclay - Jan-Mar 2026.
 
 
 To install the packages used in the different notebooks, please do:
@@ -14,9 +14,9 @@ To install the packages used in the different notebooks, please do:
 
 - Lesson 2 - Estimating the sources of M/EEG activity – w/ Théo Papadopoulo (Inria, Sophia-Antipolis) - 23/01 – 9:30-12:30AM
 
-- Lesson 3 - How to further explore M/EEG data to answer scientific questions? – 06/02 – 9:30-12:30AM
+- Lesson 3 - How to further explore M/EEG data to answer scientific questions? – 30/01 – 9:30-12:30AM
 
-- Lesson 4 - How to use real-time M/EEG data for clinical purpose? – 13/03 – 9:30-12:30AM  @ Paris Brain Institute! (+ visit of the neuroimaging platform) 
+- Lesson 4 - How to use real-time M/EEG data for clinical purpose? – 06/02 – 9:30-12:30AM  @ Paris Brain Institute! (+ visit of the neuroimaging platform) 
 
 
 ## References & links to go further
